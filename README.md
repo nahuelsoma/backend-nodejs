@@ -1,2 +1,1 @@
-# cursoBackendNodeJS
-Curso de Backend con Node.js: API REST con Express.js
+# Curso de Backend con Node.js: API REST con Express.js
